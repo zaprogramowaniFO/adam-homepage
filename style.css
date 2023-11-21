@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body {
+    color: #2D3233;
+    font-family: 'Roboto';
+    margin: 0;
+    line-height: 1.5;
+}
+/* HEADER */
+
+.header {
+    background-color: #19C0DB;
+    padding: 20px;
+}
+
+.header__menu {
+
+}
+
+.header__title {
+
+}
+
+.menu {
+    list-style-type: none;
+    display: flex;
+}
+
+.menu__item {
+    padding: 10px;
+}
+
+.menu__link {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.menu__link:hover {
+    color: white;
+    font-weight: bold;
+}
+
+
+/* MAIN */
+
+.main {
+    background-color: #F2F2F0;
+    padding: 50px 100px;
+    margin: 10px;
+}
+
+.article {
+
+}
+
+.article__title {
+    color: #3499A8;
+}
+
+.articles {
+    max-width: 600px;
+    margin: 0 auto; 
+}
+
+.data {
+    max-width: 600px;
+    margin: 0 auto; 
+}
+
+.data__list {
+
+}
+
+.hero {
+    max-width: 600px;
+    margin: 0 auto; 
+}
+
+.hero__description {
+
+}
+
+.hero__image {
+    width:300px;
+}
+
+.hero__name {
+    color: #3C6E75;
+}
+
+.list {
+
+}
+
+.list__item {
+
+}
+
+.list__link {
+    color: #2D3233;
+}
+
+.list__title {
+    color: #3499A8;
+}
+
+.paragraph {
+
+}
+
+.section__title {
+    color: #3C6E75;
+}
+
+/* FOOTER */
+.footer {
+    background-color: #2F4042;
+}
+
+.footer__description {
+    color: #F2F2F0;
+    padding: 20px;
+    margin: 0;
+}
+
+
+
